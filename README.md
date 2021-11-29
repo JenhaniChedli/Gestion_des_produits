@@ -1,2 +1,2 @@
 # Gestion_des_produits
-premier projet avec NodeJs
+Premier Projet avec NodeJs , ExpressJs et Mongoose
